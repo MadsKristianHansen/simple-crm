@@ -34,4 +34,12 @@ export class UserDetailComponent implements OnInit {
         });
   }
 
+  editUserDetail() {
+
+  }
+
+  editMenu() {
+
+  }
+
 }
